@@ -1,4 +1,4 @@
-import sys
+import sys,csv
 import requests
 from PyQt6 import QtCore, QtGui, QtWidgets
 
